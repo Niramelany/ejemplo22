@@ -1,9 +1,9 @@
 # ejemplo22
 
-Hola Mundo
-Esta es mi primera pagina  en GitHub
+Temas: Las Frutas
 
-Nombre: Nira Melany Holguin Bonilla 
+La fruta, en términos gastronómicos, es el producto alimenticio comestible que se obtiene de plantas o árboles y que se caracteriza por ser generalmente de sabor dulce. En botánica, se le denomina fruto, es el órgano procedente de la flor o de parte de ella que contiene las semillas y contribuye a diseminarlas.
 
+Beneficios: Propiedades antioxidantes que pueden reducir los riesgos de cáncer, accidentes cerebrovasculares y enfermedades cardíacas. Ayuda a disminuir el riesgo de cáncer y mejora la salud cardiovascular. Contiene carotenoides que ayudan a la salud ocular. Fitoquímicos con propiedades antivirales y antibacterianas y potasio.
 
-![Imagen de WhatsApp 2023-02-14 a las 23 45 58](https://user-images.githubusercontent.com/99859577/218933810-6067d4ec-e798-4f39-897f-c0b135471411.jpg)
+![Frutas](https://user-images.githubusercontent.com/99859577/218935261-3e28787c-d0ba-4475-92f2-defa4a1c8418.jpg)
